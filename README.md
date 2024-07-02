@@ -1,5 +1,5 @@
 # e8ts.github.io
-So... Whoever sees this, probably thinks that this isn't me. But truth be told, I'm actually on github! Might just give this coding/programming thing a shot since I literally had made a geniunely small little website back in 2017 all in github.
+I literally had made this back in 2017.
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣤⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣀⣀⣀⣀⣀⣀⡴⠋⠀⠀⣸⣩⣀⣀⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⠁⢠⣀⡀⠀⠀⢀⡞⣁⣄⠀⢀⣿⣿⣿⣿⣿⣿⣭⡙⢷⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
